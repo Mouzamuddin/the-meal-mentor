@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.App {
+  font-family: Pacifico;
+  text-align: center;
+  padding-left: 0.25rem;
+  background-color: #909e85;
+  border: 18px double #75654c;
+  border-radius: 1rem;
+}
+body {
+  margin: 0px;
+}
+#heading {
+  font-weight: 700;
+  color: #e8b38c;
+  text-align: center;
+}
+#cuisineBtn {
+  text-align: center;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  border: 1px solid #e8b38c;
+  margin-right: 0.5rem;
+  color: #e8b38c;
+  background-color: #909e85;
+}
+
+#list {
+  list-style: none;
+  text-align: center;
+  margin: 40px;
+}
+#listItems {
+  border: 1px solid #75654c;
+  border-radius: 1rem;
+  margin-bottom: 0.5rem;
+  color: #4e3d35;
+  width: 90%;
+  float: center;
+}
+#foodRating {
+  font-weight: 550;
+  text-align: center;
+  padding: 0.25rem;
+}
+#foodName {
+  font-weight: 770;
+  text-align: center;
+  padding-top: 0.25rem;
+  padding: 0.25rem;
+}
